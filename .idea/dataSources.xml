@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="postgresqlTest1" uuid="79523fb2-2d9c-46b2-8c99-d435cd06ca78">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://balarama.db.elephantsql.com:5432/bteseezc?sslmode=require</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="postgresqlTest2" uuid="74771dde-a8c4-45f7-9991-7842602dee21">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://hattie.db.elephantsql.com:5432/vxuicitl?sslmode=require</jdbc-url>
+    </data-source>
+  </component>
+</project>
